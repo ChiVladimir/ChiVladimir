@@ -2,6 +2,7 @@
 
 <img src="https://github.com/ChiVladimir/ChiVladimir/blob/main/walking_cat.gif" alt="The Unlimited" width="150">
 
+## My tools
 ![Static Badge](https://img.shields.io/badge/Py-python-grayred?style=for-the-badge&logo=python&logoColor=blue) ![Static Badge](https://img.shields.io/badge/Fusion-360?style=flat-square&logo=autodesk&logoColor=white&labelColor=orange) ![Static Badge](https://img.shields.io/badge/SolidCAM-lightblue?style=flat-square&logoColor=white&labelColor=blue)
 
 
@@ -18,5 +19,7 @@ I am a Python backend developer student <img src="https://media.giphy.com/media/
 - 🪢 Know more about me **[My Resume](https://hh.ru/applicant/resumes/view?resume=4b5b3366ff0006e96d0039ed1f736563726574)**
 -  💬 Ask me about **Banking, Banking technologies, Banking technological and process architecture, 3D modeling and manufacturing**
 - 📫 How to reach me **chivladimir@yandex.ru**
+
+![ChiVladimir's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiVladimir&show_icons=true&theme=cobalt)
 
 ---
